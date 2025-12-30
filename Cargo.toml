@@ -11,12 +11,11 @@ homepage = "https://github.com/username/egui-chinese-font"
 readme = "README.md"
 keywords = ["egui", "chinese", "font", "gui", "cjk"]
 categories = ["gui", "internationalization", "text-processing"]
-rust-version = "1.85"
+rust-version = "1.88"
 exclude = ["target/", "examples/target/"]
 
 [dependencies]
-egui = "0.32"
+egui = "0.33"
 
 [dev-dependencies]
-eframe = "0.32"
-
+eframe = "0.33"
