@@ -7,7 +7,6 @@ description = "Cross-platform Chinese font loading for egui applications"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/username/egui-chinese-font"
 documentation = "https://docs.rs/egui-chinese-font"
-homepage = "https://github.com/username/egui-chinese-font"
 readme = "README.md"
 keywords = ["egui", "chinese", "font", "gui", "cjk"]
 categories = ["gui", "internationalization", "text-processing"]

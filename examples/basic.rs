@@ -34,7 +34,7 @@ struct ChineseFontDemo {
 
 impl eframe::App for ChineseFontDemo {
     fn ui(&mut self, ui: &mut egui::Ui, _frame: &mut eframe::Frame) {
-        egui::CentralPanel::default().show_inside(ui, |ui| {
+        egui::CentralPanel::default().show(ui, |ui| {
             ui.heading("🇨🇳 Chinese Font Display Test");
             ui.label("egui-chinese-font 演示应用");
 
