@@ -15,7 +15,7 @@ rust-version = "1.92"
 exclude = ["target/", "examples/target/"]
 
 [dependencies]
-egui = "0.34"
+egui = "0.37"
 
 [dev-dependencies]
-eframe = "0.34"
+eframe = "0.37"
